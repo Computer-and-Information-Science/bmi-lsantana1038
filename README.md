@@ -5,7 +5,7 @@ Write a C++ program that calculates a person’s Body Mass Index (BMI). The heig
 The program must convert them into metric units (kilograms and meters) before calculating BMI.
 Use these numbers: 
 
-int height = 61;
+ç
 int weight= 130;
 
 Use these formulas to convert to the metric system:
